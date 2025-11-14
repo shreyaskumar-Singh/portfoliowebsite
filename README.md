@@ -46,4 +46,4 @@ The following icons are embedded directly into your index.html as SVG code, so t
 
 link to website-
 
-https://portfoliowebsiteshreyas25a05065.netlify.app/#contact
+https://portfoliowebsiteshreyas25a05065.netlify.app
