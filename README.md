@@ -32,7 +32,7 @@ Local Files
     style.css:
 Embedded Icons
 
-The following icons are embedded directly into your index.html as SVG code, so they don't require an external link:
+The following icons are embedded directly into  index.html as SVG code, so they don't require an external link:
 
     GitHub
 
