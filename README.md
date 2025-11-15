@@ -47,3 +47,7 @@ The following icons are embedded directly into  index.html as SVG code, so they 
 link to website-
 
 https://portfoliowebsiteshreyas25a05065.netlify.app
+
+
+link to github repo - 
+github.com/shreyaskumar-Singh/portfoliowebsite/
