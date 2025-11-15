@@ -50,4 +50,5 @@ https://portfoliowebsiteshreyas25a05065.netlify.app
 
 
 link to github repo - 
-github.com/shreyaskumar-Singh/portfoliowebsite/
+
+https://github.com/shreyaskumar-Singh/portfoliowebsite/
